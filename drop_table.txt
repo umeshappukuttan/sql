@@ -1,1 +1,1 @@
-drop table <table_name>
+drop table <table_name> #this is the query to drop table
