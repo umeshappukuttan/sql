@@ -1,0 +1,12 @@
+SQL Joins:
+1.	https://www.w3resource.com/sql-exercises/sql-joins-exercises.php
+2.	https://www.w3resource.com/sql-exercises/movie-database-exercise/basic-exercises-on-movie-database.php
+3.	https://www.w3resource.com/sql-exercises/movie-database-exercise/subqueries-exercises-on-movie-database.php
+4.	https://www.techonthenet.com/sql/joins_try_sql.php
+5.	https://launchschool.com/books/sql/read/joins
+6.	https://launchschool.com/books/sql/read/introduction#data
+7.	https://i.pinimg.com/originals/ae/6e/99/ae6e9906853414a0dedddfe7a6dfd716.png
+8.	https://www.youtube.com/watch?v=yEHCfRWz-EI&list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG
+9.	https://docs.python.org/2/library/xml.etree.elementtree.html
+10.	https://www.youtube.com/watch?v=bLL5NbBEg2I
+11.	https://www.youtube.com/watch?v=7JRFdHP6s9A [Good One]
